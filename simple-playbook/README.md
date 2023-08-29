@@ -1,5 +1,5 @@
 
-### 1
+## 1 - Prerequisites
 
   1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
   2. Download and install [Vagrant](http://www.vagrantup.com/downloads.html).
@@ -7,7 +7,7 @@
 
 Note for Windows users: *This guide assumes you're on a Mac or Linux host. Windows hosts are unsupported at this time.*
 
-## 2- Build the Virtual Machine
+## 2 - Build the Virtual Machine
 
   1. Download this project and put it wherever you want.
   2. Open Terminal, cd to this directory.
