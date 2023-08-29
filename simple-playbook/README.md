@@ -2,7 +2,7 @@
 ## 1 - Installation
 
   Install Virtualbox and Vagrant on local machine
-  https://www.howtoforge.com/how-to-install-vagrant-on-ubuntu-20-04/
+  <br>https://www.howtoforge.com/how-to-install-vagrant-on-ubuntu-20-04/
 
 ## 2 - Build the Virtual Machine
 
