@@ -7,9 +7,9 @@
 ## 2 - Build the Virtual Machine
 
   Clone Image
-  Go into the folder
-  vagrant init hashicorp/precise32
-  vagrant up  //edit building may take some time
+  <br>Go into the folder
+  <br>vagrant init hashicorp/precise32
+  <br>vagrant up  //edit building may take some time
 
 ## Notes
 
