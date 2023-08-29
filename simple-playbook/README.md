@@ -11,7 +11,7 @@
   <br>vagrant init hashicorp/precise32
   <br>vagrant up  //edit building may take some time
 <br>
-<br>ansible-playbook -i inventory playbook.yml
+<br>ansible-playbook playbook.yml
 
 ## Notes
 
