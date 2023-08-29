@@ -1,11 +1,8 @@
 
-## 1 - Prerequisites
+## 1 - Installation
 
-  1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-  2. Download and install [Vagrant](http://www.vagrantup.com/downloads.html).
-  3. [Mac/Linux only] Install [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html).
-
-Note for Windows users: *This guide assumes you're on a Mac or Linux host. Windows hosts are unsupported at this time.*
+  Install Virtualbox and Vagrant on local machine
+  https://www.howtoforge.com/how-to-install-vagrant-on-ubuntu-20-04/
 
 ## 2 - Build the Virtual Machine
 
