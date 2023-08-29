@@ -1,10 +1,5 @@
-# First Ansible Playbook Demo VM
 
-This project spins up a VM and demonstrates a very simple Ansible playbook.
-
-## Quick Start Guide
-
-### 1 - Install dependencies (VirtualBox, Vagrant, Ansible)
+### 1
 
   1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
   2. Download and install [Vagrant](http://www.vagrantup.com/downloads.html).
@@ -12,7 +7,7 @@ This project spins up a VM and demonstrates a very simple Ansible playbook.
 
 Note for Windows users: *This guide assumes you're on a Mac or Linux host. Windows hosts are unsupported at this time.*
 
-### 2 - Build the Virtual Machine
+## 2- Build the Virtual Machine
 
   1. Download this project and put it wherever you want.
   2. Open Terminal, cd to this directory.
@@ -23,7 +18,3 @@ Note: *If there are any errors during the course of running `vagrant up`, and it
 ## Notes
 
   - To shut down the virtual machine, enter `vagrant halt` in the Terminal in the same folder that has the `Vagrantfile`. To destroy it completely (if you want to save a little disk space, or want to rebuild it from scratch with `vagrant up` again), type in `vagrant destroy`.
-
-## About the Author
-
-This project was created by [Jeff Geerling](https://www.jeffgeerling.com/) as an example for [Ansible for DevOps](https://www.ansiblefordevops.com/).
