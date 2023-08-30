@@ -2,9 +2,9 @@
 
 Ansible Playbooks :-)
 
-### Useful collections
+### Useful Ansible Galaxy collections
 
-Ansible Galaxy
+
 https://galaxy.ansible.com/
 <br>
 AWS Collection: https://docs.steampunk.si/aws/index.html<br>
