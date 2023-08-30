@@ -12,6 +12,6 @@ Azure Collection: https://galaxy.ansible.com/azure/azure_modules
 
 ### Orchestration Tools
 
-- Ansible Tower
+- Ansible Automation Platform (earlier Ansible Tower) including Automation Hub
 - Ansible AWX
 - Ansible Semaphore
